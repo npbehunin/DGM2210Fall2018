@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: Cuckoo Clock v9.ma
-//Last modified: Sun, Oct 07, 2018 05:38:40 PM
+//Last modified: Sun, Oct 07, 2018 05:41:54 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -12,13 +12,13 @@ fileInfo "osv" "Microsoft Windows 8 Home Premium Edition, 64-bit  (Build 9200)\n
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "729D1554-4568-8BB3-2EBA-8F9B9FC2E9E1";
-	setAttr ".t" -type "double3" 22.975738930665926 1.7102760080502217 5.9609091968675756 ;
-	setAttr ".r" -type "double3" 1.4616479928168038 10152.199999998424 0 ;
+	setAttr ".t" -type "double3" 18.119592760838902 14.511768842603722 -0.66734452186991433 ;
+	setAttr ".r" -type "double3" -33.938352006097837 10530.200000004428 -9.1599974826149293e-013 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "65D6599D-4596-C2C4-216E-9A9F330DB001";
 	setAttr -k off ".v";
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 24.255404729564219;
+	setAttr ".coi" 22.80956124489855;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -4141,6 +4141,7 @@ createNode mesh -n "pCylinderShape2" -p "pCylinder2";
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 createNode transform -n "pCylinder3";
 	rename -uid "97CF297B-4911-DE0E-4642-F284717E9731";
+	setAttr ".v" no;
 	setAttr ".t" -type "double3" 1.2385069799806012 1.4143497107496239 0.014806023714978744 ;
 	setAttr ".r" -type "double3" 0 0 -90 ;
 	setAttr ".s" -type "double3" 0.81540109620447898 0.047007918896969841 0.81540109620447898 ;
