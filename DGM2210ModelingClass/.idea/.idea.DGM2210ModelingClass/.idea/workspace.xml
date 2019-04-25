@@ -11,13 +11,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GerstnerDisplace.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GerstnerDisplace.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1502905968000" expanded="false" signature="6:32" ph="..." />
-                <marker date="1502905968000" expanded="true" signature="69:188" ph="{...}" />
+                <marker date="1556049030999" expanded="false" signature="6:32" ph="..." />
+                <marker date="1556049030999" expanded="true" signature="69:188" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoxMovement.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Fox Model/Fox Model (New)/FoxMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <marker date="1556222857909" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556222857909" expanded="true" signature="120:864" ph="{...}" />
+                <marker date="1556222857909" expanded="true" signature="257:342" ph="{...}" />
+                <marker date="1556222857909" expanded="true" signature="366:504" ph="{...}" />
+                <marker date="1556222857909" expanded="true" signature="393:498" ph="{...}" />
+                <marker date="1556222857909" expanded="true" signature="562:583" ph="{...}" />
+                <marker date="1556222857909" expanded="true" signature="626:862" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -29,7 +47,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Fox Model/Fox Model (New)/FoxMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Fox Model/Fox Model (New)/Fox Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Fox Model/Fox Model (New)/FoxMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="7" />
@@ -43,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -60,10 +92,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,6 +120,20 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63925913-6adb-419b-951d-9272739f6867" name="Default" comment="" />
+      <created>1556215839527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556215839527</updated>
+      <workItem from="1556215844522" duration="5598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5598000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -105,23 +153,28 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19303255" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19531696" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -131,8 +184,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1502905968000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1502905968000" expanded="true" signature="69:188" ph="{...}" />
+            <marker date="1556049030999" expanded="false" signature="6:32" ph="..." />
+            <marker date="1556049030999" expanded="true" signature="69:188" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -141,8 +194,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1502905968000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1502905968000" expanded="true" signature="69:188" ph="{...}" />
+            <marker date="1556049030999" expanded="false" signature="6:32" ph="..." />
+            <marker date="1556049030999" expanded="true" signature="69:188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Fox Model/Fox Model (New)/Fox Movement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556049030999" expanded="false" signature="6:32" ph="..." />
+            <marker date="1556049030999" expanded="true" signature="69:188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Fox Model/Fox Model (New)/FoxMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <marker date="1556222857909" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556222857909" expanded="true" signature="120:864" ph="{...}" />
+            <marker date="1556222857909" expanded="true" signature="257:342" ph="{...}" />
+            <marker date="1556222857909" expanded="true" signature="366:504" ph="{...}" />
+            <marker date="1556222857909" expanded="true" signature="393:498" ph="{...}" />
+            <marker date="1556222857909" expanded="true" signature="562:583" ph="{...}" />
+            <marker date="1556222857909" expanded="true" signature="626:862" ph="{...}" />
           </folding>
         </state>
       </provider>

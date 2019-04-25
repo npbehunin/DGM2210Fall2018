@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\npbeh\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DGM2210ModelingClass.1044695315.00" t="ExcludeRecursive" />
-    <e p="C:\Users\npbeh\Documents\UVU\Fall 2018\DGM2210Fall2018\DGM2210ModelingClass" t="IncludeRecursive">
+    <e p="C:\Users\10672633\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DGM2210ModelingClass.-1880255615.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10672633\Documents\Nathan Behunin\DGM2210Fall2018\DGM2210ModelingClass" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Fox Model" t="Include">
+          <e p="Fox Model (New)" t="Include">
+            <e p="FoxMovement.cs" t="Include" />
+          </e>
+        </e>
         <e p="ProCore" t="Include">
           <e p="ProGrids" t="Include">
             <e p="About" t="Include">
