@@ -19,9 +19,9 @@ public class FoxMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (canMove)
+       // if (canMove)
         {
-            rb.MovePosition(transform.position + -transform.right * Time.deltaTime);
+           // rb.MovePosition(transform.position + -transform.right * Time.deltaTime);
         }
     }
 
